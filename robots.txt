@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://klerno-labs.github.io/review-best-cordless-drill-for-diy-beginners-under-150/sitemap.xml
